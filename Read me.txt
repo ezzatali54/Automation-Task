@@ -1,0 +1,13 @@
+How to run using cmd : 
+
+kindly use below url as a guide to run cucumber tests from terminal :
+
+https://toolsqa.com/selenium-cucumber-framework/run-cucumber-test-from-command-line-terminal/
+
+Project Description : 
+
+i am using cucmber framework and design pattern "behaviour data driven" (BDD) using jerkin language to implement two scenarios related to register and login to twitter and following ELon Musk account 
+
+Limitations : 
+the registration scenario due to twitter captcha against automation scripts as attached screenshot in the email from the captcha .
+ 
